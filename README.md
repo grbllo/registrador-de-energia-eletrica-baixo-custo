@@ -30,3 +30,6 @@ TX do pzem no pino D7 do arduino
 Bibliotecas usadas:
 https://github.com/mandulaj/PZEM-004T-v30
 https://github.com/olikraus/u8g2
+
+![foto dele funcionando medindo uma lampada](https://user-images.githubusercontent.com/102438210/169173309-7d9c7756-7d62-417a-ab35-3e839be98f4f.jpeg)
+![foto dele funcionando medindo outra lampada](https://user-images.githubusercontent.com/102438210/169173334-f138024e-14ad-4722-b19a-9e9a2185a30a.jpeg)
