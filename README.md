@@ -1,4 +1,8 @@
 # registrador-de-energia-eletrica-baixo-custo
+# Projeto para meu TCC
+# Auth: Gabriel Michels Rebello
+
+
 Projeto de TCC com objetivo de criar um prototipo de registrador de energia de baixo custo com uma boa precisao
 
 Itens usandos na V1.0
